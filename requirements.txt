@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+notebook
+matplotlib
+seaborn
+lazypredict
